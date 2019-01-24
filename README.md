@@ -25,6 +25,13 @@ git clone https://github.com/n-genesis/finxact-console-schema-explorer.git
 npm install
 ```
 
+### MobX Decorators
+Since this project uses MobX you'll need to add the `custom-react-script` module.
+```
+npm install custom-react-scripts --save
+```
+
+
 ## Getting Started
 
 ### `npm start`
