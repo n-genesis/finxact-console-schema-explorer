@@ -1,5 +1,5 @@
 # README
-![alt text](https://raw.githubusercontent.com/n-genesis/finxact-console-schema-explorer/master/src/image/schema_fun.png "Image")
+![alt text](https://raw.githubusercontent.com/n-genesis/finxact-console-schema-explorer/master/src/image/schema_fun.png "Screenshot")
 
 ## Finxact Console Schema Explorer
 
