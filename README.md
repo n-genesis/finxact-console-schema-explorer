@@ -1,10 +1,7 @@
 # README
+![alt text](https://raw.githubusercontent.com/n-genesis/finxact-console-schema-explorer/master/src/image/schema_fun.png "Screenshot")
 
 ## Finxact Console Schema Explorer
-
-![Screenshot](https://raw.githubusercontent.com/n-genesis/finxact-console-schema-explorer/master/src/image/schema_fun.png "Screenshot")
-
-
 
 View Core JSON schema and core-server JSON form generating form for the console-server.
 
