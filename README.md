@@ -1,6 +1,7 @@
 # README
 
 ## Finxact Console Schema Explorer
+
 ![Screenshot](https://raw.githubusercontent.com/n-genesis/finxact-console-schema-explorer/master/src/image/schema_fun.png "Screenshot")
 
 
