@@ -31,7 +31,6 @@ Since this project uses MobX you'll need to add the `custom-react-script` module
 npm install custom-react-scripts --save
 ```
 
-
 ## Getting Started
 
 ### `npm start`
