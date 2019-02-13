@@ -33,7 +33,10 @@ npm install custom-react-scripts --save
 
 ## Getting Started
 
-### `npm run dev`
+```
+npm run dev
+```
+
 Runs the app in the development mode. Open Electron app window maximized with development toolbar open.<br>
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
